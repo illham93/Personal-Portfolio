@@ -1104,3 +1104,8 @@ section {
     padding-right: 20px 15px;
   }
 }
+
+.landscape-aspectratio {
+  aspect-ratio: calc(4/3);
+  object-fit: cover;
+}
